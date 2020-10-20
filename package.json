@@ -1,0 +1,19 @@
+{
+  "name": "hexo-generator-about",
+  "version": "1.0.0",
+  "description": "About Generator Plugin For Hexo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bluemiaomiao/hexo-generator-about.git"
+  },
+  "author": "bluemiaomiao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bluemiaomiao/hexo-generator-about/issues"
+  },
+  "homepage": "https://github.com/bluemiaomiao/hexo-generator-about#readme"
+}
