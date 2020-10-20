@@ -1,17 +1,17 @@
 # hexo-generator-link
 
-Link generator for Hexo.
+About generator for Hexo.
 
 ## Installtion
 
 ```bash
-$ npm install hexo-generator-link --save
+$ npm install hexo-generator-about --save
 ```
 
 or
 
 ```bash
-$ yarn add hexo=generator-link
+$ yarn add hexo=generator-about
 ```
 
 ## License

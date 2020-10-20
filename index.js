@@ -1,7 +1,7 @@
-hexo.extend.generator.register('link', function(locals){
+hexo.extend.generator.register('about', function(locals){
     return {
-        path: 'links/index.html',
+        path: 'about/index.html',
         data: locals.posts,
-        layout: ['link', 'archive', 'index']
+        layout: ['about', 'archive', 'index']
     }
 });
